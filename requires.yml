@@ -1,6 +1,8 @@
 # A list of javascript files required for the project, in dependency order
 javascripts:
   files:
+     <script src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.2.0/prototype.js"></script>
+
     - lib/robot.js
   specs:
     - spec/robot.spec.js
